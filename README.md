@@ -15,4 +15,6 @@ Bước 3: Tải lại trang (F5) và lọc tìm token
         Tìm dòng có URL chứa /api/v9/users/@me
         Nhấn vào dòng đó → tab Headers
         Ở phần Request Headers, tìm dòng có chữ:
+
+        
         authorization: YOUR_TOKEN_HERE
